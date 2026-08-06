@@ -13,4 +13,5 @@ class Solution(object):
                 low+=1
             elif target<sum:
                 high-=1
-        return([low+1,high+1])
+        a=[low+1,high+1]
+        return a
