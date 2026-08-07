@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saawant07/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saawant07/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/saawant07/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saawant07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saawant07/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/saawant07/leetcode/tree/master/0682-baseball-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saawant07/leetcode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saawant07/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
