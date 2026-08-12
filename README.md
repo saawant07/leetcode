@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saawant07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saawant07/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saawant07/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saawant07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/saawant07/leetcode/tree/master/0682-baseball-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saawant07/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saawant07/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/saawant07/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saawant07/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saawant07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saawant07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saawant07/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saawant07/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saawant07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/saawant07/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -64,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saawant07/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/saawant07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/saawant07/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saawant07/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saawant07/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
